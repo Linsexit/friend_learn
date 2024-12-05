@@ -1,0 +1,153 @@
+橄榄球英语
+ A formation A字阵式
+   air attack 传球进攻
+   back-up 线后防守的队员
+   back field 守卫队员
+   back judge 防守对后方的裁判员
+   backman 后方
+   backs play 卫线战术
+   ball carrier 持球前进的队员
+   blind pass 跨下向后传球
+   blocked kick 被阻挡的踢球
+   brush blocking 轻快挡开对方
+   catch a high ball 拾高球
+   chain 链尺
+   close dribble 并列运球
+   close game with long forward passes 长传密集进攻打法
+   corner post 角杆
+   crawling 爬行传球
+   cross over 交叉步躲闪突进
+   cup-defense 杯形防守
+   grounding ball 压球触地
+   half back 飞扑传球
+   half-way line 中线
+   helmet 头盔
+   helping the runner 助攻犯规
+   hide-out play 偷袭
+   high kick 踢高球
+   hurdling 跨越过人
+   incomplete pass 传球失误
+   in-charge 守卫队员从对方内侧抢球
+   inside tackle内侧抢球
+   interlocked interference 联合阻碍
+   inter-rocked 坚持护球
+   in touch 球越过球门线
+   kick-of information 开球阵式
+   knee pad 护膝
+   last down 最后一次进攻
+   lateral pass play 侧向传球战术
+   left end 左边锋
+   left guard 左内锋
+   left tackle 左内边锋
+   lie on the ball 卧压球
+   lineman 卫线动员
+   line out 界外球
+   line out play 争界外球
+   loose head 自由前锋
+   march 持续进攻
+   mark 接球地点
+   marking 标志线
+   dangerous zone 危险区
+   diamond defense formation 菱形防守阵式
+   dive pass 飞身传球
+   double wing back 双边卫队形
+   down 进攻分段
+   down-the-middle thrust 中路突破
+   drop goal 碰球入门
+   drop kick 踢落地球
+   dummy 人形帆布袋
+   dummy pass 假传球
+   face guard 面罩
+   first down 第一次进攻
+   first quarter 第一节
+   five man line defense formation 5人防守阵式 five-yard line 5码线
+   float 阻止持球队员包抄
+   fly 飞传
+   flying block 鱼跃阻挡
+   flying half 飞锋
+   flying tackle 鱼跃擒抱动作
+   flying wedge 楔形强攻战术
+   for point 追加分
+   forward man 前卫
+   forward pass play 向前传球战术
+   four point stance 4点姿势
+   fourth down 第4次进攻
+   front row 前排
+   full back 殿卫
+   gridirom 橄榄球场
+   safety-man 安全队员
+   scrimmage 争球
+   scrimmage line 争球线
+   scrum half 传锋
+   secondary defense 第2防线
+   second down 第2进攻
+   second row 中排
+   seven men line box defense 7人箱形防线
+   seven men line diamond defense 7人菱形防线
+   short punt 短传球
+   shoulder pad 护肩
+   shove pass 进间转身向后传球
+   sidestep 侧步
+   single wingback formation 单边防守阵式
+   slant 突破防线
+   sleeper 乘虚进攻
+   smash 强行突破
+   snap 向后投球
+   spin kick 踢旋转球
+   stand off 接锋
+   standing pass 原地传球
+   statue of liberty 自由女神式传球
+   straight tackling 正面阻挡
+   T formation T字阵式
+   tackler 阻挡球员
+   tackling 阻挡
+   tail back 尾后卫
+   ten-yard line 十码线
+   third down 第3次进攻
+   mouse-trap 陷进战术
+   off guard 内侧抢球
+   offset 双方同时犯规
+   on side 在位
+   one armed catch 单手接球
+   out of play 暂停
+   pad 护具
+   padded jersy 衬软垫的运动衫
+   pass behind line 线后短传
+   piling up 故意压人
+   plunge 突破防线
+   punt kick 踢脱手球
+   quarter 小节
+   quarterback 四分卫
+   quick kick 快踢
+   ready for play 准备开始
+   receiveing team 防守队
+   recover 重新接球
+   regular formation 基本队形
+   retreating tactic 撤退战术
+   return kick 回踢
+   reverse play 回转进攻
+   right guard 右后卫
+   right tackle 右内边锋
+   right wing 右边锋
+   rocked leg 争球时勾腿
+   roll out 四分卫突破战术
+   rush tackle 冲抱
+   safety 安全得分
+   third row 后排
+   tight scrummage 对等争球
+   touch 持球触人
+   touch down 持球触地
+   touchdown passing 向前传球越过对方球门线
+   touchdown running 举球越过对方球门线
+   touch-in-goal 得分区
+   touch-in-goal line 得分区线
+   touch kick 踢向边线
+   tripple wing back formation 三边卫进攻阵式
+   try 进攻权，持球触地得分
+   try getter （持球触地）得分手
+   twenty yards chain 20码链尺
+   two-yard line 两码线
+   V formation V字阵式
+   war dance 赛前舞（预祝胜利）
+   wing back 边卫
+   yard line 码线
